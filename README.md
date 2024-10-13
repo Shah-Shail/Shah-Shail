@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Shah-Shail/Shah-Shail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shah-Shail/Shah-Shail**
 
 Here are some ideas to get you started:
 
